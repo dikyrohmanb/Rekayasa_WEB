@@ -1,7 +1,7 @@
 ## Diky Rohman Baehaky
 ---
-###
+### Description
 .....
 ---
 ### ScreenShot
-!{image:../Asset/img/logo.png}
+!{image:../Asset/img/ss.png}
